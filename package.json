@@ -1,5 +1,5 @@
 {
-  "name": "react-cropper",
+  "name": "nakaji-dayo-react-cropper",
   "version": "0.10.0",
   "description": "Cropper as React components",
   "main": "dist/react-cropper.js",
@@ -27,10 +27,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/roadmanfong/react-cropper.git"
+    "url": "https://github.com/nakaji-dayo/react-cropper.git"
   },
   "dependencies": {
-    "cropperjs": "^0.8.0",
+    "cropperjs": "^0.8.1",
     "react": "^15.0.0",
     "react-dom": "^15.0.0",
     "rimraf": "^2.5.4"
